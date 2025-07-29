@@ -1,0 +1,5 @@
+pyspark
+pandas
+databricks-sdk
+databricks-mcp
+uvicorn
