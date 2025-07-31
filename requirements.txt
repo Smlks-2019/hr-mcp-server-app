@@ -1,5 +1,6 @@
-pyspark
+pyspark==3.5.1
 pandas
 databricks-sdk
 databricks-mcp
 uvicorn
+fastapi
